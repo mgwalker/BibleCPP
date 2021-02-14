@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BibleCPP", "BibleCPP.vcproj", "{EA3D824E-FD70-47E9-8AEA-5396EDE54E57}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{EA3D824E-FD70-47E9-8AEA-5396EDE54E57}.Debug.ActiveCfg = Debug|Win32
+		{EA3D824E-FD70-47E9-8AEA-5396EDE54E57}.Debug.Build.0 = Debug|Win32
+		{EA3D824E-FD70-47E9-8AEA-5396EDE54E57}.Release.ActiveCfg = Release|Win32
+		{EA3D824E-FD70-47E9-8AEA-5396EDE54E57}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
